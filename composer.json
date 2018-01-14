@@ -1,0 +1,16 @@
+{
+    "name": "bluenest/laravel-ip-restriction-middleware",
+    "description": "Laravel middleware to allow restricting HTTP requests by IP addresses.",
+    "authors": [
+        {
+            "name": "Bryan Mayor",
+            "email": "software@bnest.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BlueNest\\Laravel\\": "src/BlueNest/Laravel"
+        }
+    }
+}
